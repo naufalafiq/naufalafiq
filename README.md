@@ -1,4 +1,4 @@
-### Hi I'm Naufal Afiq! 👋   
+# Hi I'm Naufal! 👋   
 ### 🧑‍💻 About Me    
 - I'm currently studying **Cybersecurity** in Polytechnic
 - I'm enthusiastic in the concepts of network security, exploitation and programming
