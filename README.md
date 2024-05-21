@@ -1,14 +1,15 @@
-### Hi I'm Naufal Afiq! 👋<br>
-### 🧑‍💻 About Me
-- I am a student who is currently pursuing cybersecurity for 2 years
-- Currently having no experience or internship
-- Working on ethical hacking and network security skills
+### Hi I'm Naufal Afiq! 👋   
+### 🧑‍💻 About Me    
+- I'm currently studying **Cybersecurity** in Polytechnic
+- I'm enthusiastic in the concepts of network security, exploitation and programming
+- I enjoy doing hacking labs, writing scripts and sleeping late
 
-### 🔭 Projects
-TBA
+### 🌱 I’m currently learning
+- Cryptography, forensics, web and binary exploitation
 
-### 📫 Contact me
-TBA
+### 📫 How to reach me
+- [LinkedIn](www.linkedin.com/in/muhammad-naufal-afiq-7b9106256)
+
 <!--
 **naufalafiq/naufalafiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
